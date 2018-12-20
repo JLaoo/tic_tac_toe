@@ -1,3 +1,9 @@
+# Tic Tac Toe Update 1.1
+- Bug fixes
+- Most edge cases fixed
+- Easy AI Added
+- Menu added
+
 # Tic Tac Toe Update 1.0
 - Basic Functionality
 - Supports two players
