@@ -1,3 +1,6 @@
+# Tic Tac Toe Update 1.1.1
+- Fixed bug where game ended in draw even if a player won if the board was full
+
 # Tic Tac Toe Update 1.1
 - Bug fixes
 - Most edge cases fixed
