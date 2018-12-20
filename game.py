@@ -46,11 +46,11 @@ class Game:
 
 
 	def win_condition(self):
-		if not -1 in self.positions:
-			return 3
 		for board in winning_boards:
 			if self.positions[board[0]] == self.positions[board[1]] == self.positions[board[2]] and self.positions[board[0]] != -1:
 				return abs(self.who - 1)
+		if not -1 in self.positions:
+			return 3
 		return -1
 
 	def update(self, player_choice, who, pos_dict):
