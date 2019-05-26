@@ -1,3 +1,5 @@
+Link to original repository: https://github.com/JLaoo/tic_tac_toe
+
 # Tic Tac Toe Update 1.1.1
 - Fixed bug where game ended in draw even if a player won if the board was full
 
